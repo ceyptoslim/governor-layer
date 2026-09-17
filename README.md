@@ -1,3 +1,5 @@
+> **Superseded (Sept 2026):** this is the original governor-layer concept repo (June 2026) — the earliest public articulation of the governance-firewall idea. The living, tested product is **[CUSTOS-CORE](https://github.com/ceyptoslim/CUSTOS-CORE)** (deterministic, fail-closed AI execution governance, v1.3.2), with the [LORL-9.1](https://github.com/ceyptoslim/LORL-9.1) autonomous-agent application layer. The "MVP in 90 days" status line below is historical.
+
 # Governor Layer
 
 Pre-execution governance and approval framework for enterprise AI agents.
